@@ -1,0 +1,14 @@
+ls: impossible d'accéder à 'x*': Aucun fichier ou dossier de ce type
+ls: impossible d'accéder à 'x*': Aucun fichier ou dossier de ce type
+225
+Bureau
+Documents
+Images
+liste.txt
+mail
+Modèles
+Musique
+pt
+Public
+Téléchargements
+Vidéos
